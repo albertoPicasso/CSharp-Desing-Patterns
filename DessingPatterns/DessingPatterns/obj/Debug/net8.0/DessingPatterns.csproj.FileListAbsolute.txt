@@ -1,0 +1,14 @@
+/home/al/RiderProjects/DessingPatterns/DessingPatterns/bin/Debug/net8.0/DessingPatterns
+/home/al/RiderProjects/DessingPatterns/DessingPatterns/bin/Debug/net8.0/DessingPatterns.deps.json
+/home/al/RiderProjects/DessingPatterns/DessingPatterns/bin/Debug/net8.0/DessingPatterns.runtimeconfig.json
+/home/al/RiderProjects/DessingPatterns/DessingPatterns/bin/Debug/net8.0/DessingPatterns.dll
+/home/al/RiderProjects/DessingPatterns/DessingPatterns/bin/Debug/net8.0/DessingPatterns.pdb
+/home/al/RiderProjects/DessingPatterns/DessingPatterns/obj/Debug/net8.0/DessingPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/home/al/RiderProjects/DessingPatterns/DessingPatterns/obj/Debug/net8.0/DessingPatterns.AssemblyInfoInputs.cache
+/home/al/RiderProjects/DessingPatterns/DessingPatterns/obj/Debug/net8.0/DessingPatterns.AssemblyInfo.cs
+/home/al/RiderProjects/DessingPatterns/DessingPatterns/obj/Debug/net8.0/DessingPatterns.csproj.CoreCompileInputs.cache
+/home/al/RiderProjects/DessingPatterns/DessingPatterns/obj/Debug/net8.0/DessingPatterns.dll
+/home/al/RiderProjects/DessingPatterns/DessingPatterns/obj/Debug/net8.0/refint/DessingPatterns.dll
+/home/al/RiderProjects/DessingPatterns/DessingPatterns/obj/Debug/net8.0/DessingPatterns.pdb
+/home/al/RiderProjects/DessingPatterns/DessingPatterns/obj/Debug/net8.0/DessingPatterns.genruntimeconfig.cache
+/home/al/RiderProjects/DessingPatterns/DessingPatterns/obj/Debug/net8.0/ref/DessingPatterns.dll
