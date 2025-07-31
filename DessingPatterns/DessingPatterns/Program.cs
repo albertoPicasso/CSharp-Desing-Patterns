@@ -6,8 +6,10 @@ class Program
     private static void Main(string[] args)
     {
         FactoryMethod fm =  new FactoryMethod();
+        AbstractFactory af = new  AbstractFactory();
+        //fm.Main();
+        af.Main();
         
-        fm.Main();
         
     }
 

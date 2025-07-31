@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DessingPatterns")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb90473b18587c232bfe8d7d7bac79802816e393")]
 [assembly: System.Reflection.AssemblyProductAttribute("DessingPatterns")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DessingPatterns")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
